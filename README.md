@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkatacheppali
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning RDkit modules
+- 🌱 I’m currently learning Python modules
 - 💞️ I’m looking to collaborate on Machine learning Algorithms
 - 📫 How to reach me 9910868887
 
